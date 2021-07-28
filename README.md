@@ -10,7 +10,7 @@ Referenzes:
 - FirstClassIRC (https://web.archive.org/web/20071028000337/http://www.firstclassirc.com/)
 - I'm the creator of the PR0NCL!PS IRC Database-Bot, i can't provide any code here, because i lost access by an computer crash back in 2006
 
-Back in 2002 my Username was Deco, after my time on lanpartys i switched for securety resons to nizo, someday i notices that someone also used this name so i switched finanly  to @iptoux.
+Back in 2002 my Usernames was Deco (Lanpartys), and nizo (IRC, Torrents). 2009 i quite all the stuff and begun a new life under @iptoux.
 
 
 <!---
