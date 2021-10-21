@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iptoux
 - Regain Access to my Account 07.2021 (thankyou github)
 - 👀 I’m interested in Linux, Python, Hacking (Pentesting), Windows, new Technologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Junior-Penetration-Tester path on TryHackMe.com
 - 📫 Kontakt me on Twitter: https://twitter.com/Iptoux
 
 
