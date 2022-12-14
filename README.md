@@ -5,6 +5,11 @@
 - 📫 Kontakt me on Twitter: https://twitter.com/Iptoux
 
 
+<br />
+<p align="center" width="100%">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=iptoux&show_icons=true&theme=transparent" title="iptoux's GitHub stats">
+</p>
+
 Referenzes: 
 - Linuxsofa.net (https://web.archive.org/web/20080612085218/http://www.linuxsofa.net/)
 - Cybernetworkgroup (https://web.archive.org/web/20070918174551/http://www.cybernetworkgroup.de/core.php)
