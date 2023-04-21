@@ -14,9 +14,9 @@ Referenzes:
 - Linuxsofa.net (https://web.archive.org/web/20080612085218/http://www.linuxsofa.net/)
 - Cybernetworkgroup (https://web.archive.org/web/20070918174551/http://www.cybernetworkgroup.de/core.php)
 - FirstClassIRC (https://web.archive.org/web/20071028000337/http://www.firstclassirc.com/)
-- I'm the creator of the PR0NCL!PS IRC Database-Bot, i can't provide any code here, because i lost access by an computer crash back in 2006
+- I'm the creator of well known IRC Database-Bot, i can't provide any code here, because i lost access by an computer crash back in 2006
 
-Back in 2002 my Usernames was Deco (Lanpartys), and nizo (IRC, Torrents). 2009 i quite all the stuff and begun a new life under @iptoux.
+Back in 2002 my Usernames was Deco (Lanpartys), and nizo (IRC, T*rre*ts). 2009 i quite all the stuff and begun a new life under @iptoux.
 
 
 <!---
