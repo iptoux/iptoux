@@ -1,6 +1,6 @@
-### I'm ...
+### 🔍 I'm ...
 
-- 👋 Hi, I’m @iptoux
+- 👋 I'm @iptoux aka Maik Roland Damm
 - 👀 I’m interested in Linux, Hacking (Pentesting), Windows, new Technologies
 - 🛠️ I'm also a Software developer in
   
